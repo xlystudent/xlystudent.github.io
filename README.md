@@ -1,2 +1,2 @@
-# xylstudent.github.io
+# xlystudent.github.io
 this is my website
